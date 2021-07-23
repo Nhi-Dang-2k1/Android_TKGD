@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "LT15304_NhiDTYps12778_Assignmet_GD2"
